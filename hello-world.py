@@ -1,1 +1,1 @@
-print('jenkins süpermiş')
+print('jenkins engin')
