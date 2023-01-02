@@ -1,1 +1,1 @@
-print('Hello World.yeni3')
+print('jenkins süpermiş')
